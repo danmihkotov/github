@@ -1,0 +1,11 @@
+login,password,address1,address2,pass1,arrive,depart,seatPref,seatType
+user,user,user,user,user user,Denver,Frankfurt,Aisle,Business
+user1,user1,user1,user1,user1 user1,Frankfurt,London,None,Coach
+user2,user2,user2,user2,user2 user2,Los Angeles,Paris,Window,First
+user3,user3,user3,user3,user3 user3,Portland,Seattle,Window,Business
+user4,user4,user4,user4,user4 user4,Seattle,London,Aisle,Coach
+user5,user5,user5,user5,user5 user5,Sydney,Zurich,Aisle,First
+user6,user6,user6,user6,user6 user6,San Francisco,Denver,Window,First
+user7,user7,user7,user7,user7 user7,Zurich,Paris,None,Coach
+user8,user8,user8,user8,user8 user8,Los Angeles,Denver,None,First
+user9,user9,user9,user9,user9 user9,Seattle,Sydney,Aisle,Coach
